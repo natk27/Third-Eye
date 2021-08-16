@@ -2,8 +2,6 @@
 Third Eye is an ios news application to enhance user experience with software advancements such as object detection, speech recognition, speech synthesizers and NLP. The end product is a smartphone application with multimodal inputs – touch, gestures and voice, enabling new use case for the application and making it more accessible to the users. The application is also designed to help visually impaired users using voice and gestures. Voice and gesture controls are implemented to be effective to visually impaired users as well.
 
 
-<h2>Machine Learning<h2>
-
 
 <h2>Model Inputs</h2>
 
